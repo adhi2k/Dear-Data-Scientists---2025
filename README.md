@@ -1,2 +1,2 @@
-*Python*
+*Python*/n
     *▹Basic data types + operators*
