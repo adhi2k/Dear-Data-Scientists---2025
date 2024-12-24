@@ -1,3 +1,3 @@
-#Python
+# **Python**
 
-   Basic data types + operators
+   ▹Basic data types + operators
